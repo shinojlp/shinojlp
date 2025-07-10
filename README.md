@@ -19,5 +19,5 @@ IT Student passionate about **Cybersecurity**, **Machine Learning**, and **Web D
 - 🔍 Always learning new technologies
 
 ## 🌟 Featured Projects
-- **Rock-Paper-Scissors Hand Gesture Game** - Real-time gesture detection using MediaPipe and OpenCV
+- **Rock-Paper-Scissors Game** - Real-time gesture detection using MediaPipe and OpenCV
 
