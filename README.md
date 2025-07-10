@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋 I'm Shinoj Lalgi
 
-<!--
-**shinojlp/shinojlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+IT Student passionate about **Cybersecurity**, **Machine Learning**, and **Web Development**. I love building projects that solve real-world problems and exploring the intersection of security and technology.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Focus Areas:** Cybersecurity, Machine Learning, Frontend Development
+- **Currently Learning:** Google Cybersecurity Course via Coursera
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 What I'm Working On
+- Exploring ML algorithms 
+- Developing cybersecurity tools and projects
+- Enhancing frontend development skills
+
+## 📚 Beyond Code
+- 📖 Avid reader
+- 🎵 Music enthusiast
+- 🔍 Always learning new technologies
+
+## 🌟 Featured Projects
+- **Rock-Paper-Scissors Hand Gesture Game** - Real-time gesture detection using MediaPipe and OpenCV
+
