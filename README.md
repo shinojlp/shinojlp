@@ -20,4 +20,7 @@ IT Student passionate about **Cybersecurity**, **Machine Learning**, and **Web D
 
 ## 🌟 Featured Projects
 - **Rock-Paper-Scissors Game** - Real-time gesture detection using MediaPipe and OpenCV
+- **OmniStream** – A unified streaming discovery app built using React Native, Django, and TMDb API.
+
+
 
