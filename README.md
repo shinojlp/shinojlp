@@ -67,5 +67,5 @@ Here are some projects I've worked on that I'm particularly proud of:
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shinoj-pattomparampil-14a452379/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/shinojlp/) 
 - ✉️ Open to collaboration and new ideas!
